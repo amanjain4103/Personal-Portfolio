@@ -1,7 +1,7 @@
 # Aman Jain							   
-**https://github.com/amanjain4103**
-**amanjain4103@gmail.com/**             
-**Java, Javascript, Python3**
+**https://github.com/amanjain4103**                                                       
+**amanjain4103@gmail.com/**                                       
+**Java, Javascript, Python3**                                  
 
 ## Skills
 Java, Python3, Javascript(ES6), React/React Hooks/Context API, Redux , NodeJS, EJS, MongoDB, Postgresql, Heroku, Git, Linux, DevOps and English
@@ -56,11 +56,15 @@ Fetched data using Web Scraping.
 ### Face Recog App 
 
 ## Leadership And Awards
-Ranked 1st Worldwide in Java Programming Language on HackerRank platform.
-Lead my team to Achieve 2nd position on the State Level Tech Fest organized by our college.
-Technical blogger at www.labspractiko.blogspot.com fulfilling the vision of practical education.
+* Ranked 1st Worldwide in Java Programming Language on HackerRank platform.
+* Lead my team to Achieve 2nd position on the State Level Tech Fest organized by our college.
+* Technical blogger at www.labspractiko.blogspot.com fulfilling the vision of practical education.
 
 ## Certifications
 * Javascript Algorithms and Data Structures(freecodecamp)
 * DevOps Industrial Training(Grras)
 * Zero to mastery Full Stack Cours(Udemy) 
+
+## Personal Info
+LinkedIn - *www.linkedin.com/in/aman-jain-dev*
+Instagram - *https://www.instagram.com/amanjain.dev/*
