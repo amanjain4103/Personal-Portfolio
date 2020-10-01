@@ -4,7 +4,7 @@
 **Java, Javascript, Python3**                                  
 
 ## Skills
-Java, Python3, Javascript(ES6), React/React Hooks/Context API, Redux , NodeJS, EJS, MongoDB, Postgresql, Heroku, Git, Linux, DevOps and English
+Java, Javascript(ES6), React/React Hooks/Context API, Redux , NodeJS, EJS, MongoDB, Postgresql, Heroku, Git, Linux, DevOps and English
 
 
 ## Experience
@@ -63,7 +63,7 @@ Fetched data using Web Scraping.
 ## Certifications
 * Javascript Algorithms and Data Structures(freecodecamp)
 * DevOps Industrial Training(Grras)
-* Zero to mastery Full Stack Cours(Udemy) 
+* Zero to mastery Full Stack Course(Udemy) 
 
 ## Personal Info
 LinkedIn - *www.linkedin.com/in/aman-jain-dev*
