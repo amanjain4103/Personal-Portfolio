@@ -4,7 +4,7 @@
 **Java, Javascript, Python3**                                  
 
 ## Skills
-Java, Javascript(ES6), React/React Hooks/Context API, Redux , NodeJS, EJS, MongoDB, Postgresql, Heroku, Git, Linux, DevOps and English
+Java, Javascript(ES6), Python3, React/React Hooks/Context API, Redux , NodeJS, EJS, MongoDB, Postgresql, Heroku, Git, Linux, DevOps and English
 
 
 ## Experience
@@ -57,7 +57,7 @@ Fetched data using Web Scraping.
 
 ## Leadership And Awards
 * Ranked 1st Worldwide in Java Programming Language on HackerRank platform.
-* Lead my team to Achieve 2nd position on the State Level Tech Fest organized by our college.
+* Lead my team to Achieve 2nd position on the State Level Tech Fest organized in college.
 * Technical blogger at www.labspractiko.blogspot.com fulfilling the vision of practical education.
 
 ## Certifications
