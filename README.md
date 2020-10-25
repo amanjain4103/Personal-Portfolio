@@ -1,7 +1,7 @@
 # Aman Jain							   
 **https://github.com/amanjain4103**                                                       
 **amanjain4103@gmail.com/**                                       
-**Java, Javascript, Python3**                                  
+**Javascript, Java, Python3**                                  
 
 ## Skills
 Java, Javascript(ES6), Python3, React/React Hooks/Context API, Redux , NodeJS, EJS, MongoDB, Postgresql, Heroku, Git, Linux, DevOps and English
