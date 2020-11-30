@@ -4,7 +4,7 @@
 **Javascript, Java, Python3**                                  
 
 ## Skills
-Java, Javascript(ES6), Python3, React/React Hooks/Context API, Redux , NodeJS, EJS, MongoDB, Postgresql, Heroku, Git, Linux, DevOps and English
+Java, Javascript(ES6), Python3, Firebase, React/React Hooks/Context API, Redux , NodeJS, EJS, MongoDB, Postgresql, Heroku, Git, Linux, DevOps and English
 
 
 ## Experience
